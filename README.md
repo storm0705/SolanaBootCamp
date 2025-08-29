@@ -1,4 +1,4 @@
-# Welcome to the 30-Day Solana Developer Bootcamp. Everybody can improve their coding ability here. Try a best
+# Welcome to the 30-Day Solana Developer Bootcamp. Everybody can improve their coding ability here. Try a best. Passion is the creation
 
 This bootcamp will equip you with the skills to build decentralized applications (dApps) on the Solana blockchain. Over the next 30 days, you'll gain a strong foundation in Solana's core concepts and client-side development.
 
