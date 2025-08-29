@@ -3,7 +3,8 @@
 This bootcamp will equip you with the skills to build decentralized applications (dApps) on the Solana blockchain. Over the next 30 days, you'll gain a strong foundation in Solana's core concepts and client-side development.
 This will be helpful for a dev who are really gonna improve their ability now.
 you can also impreve your maintain ability to study this project.
-Confirm your ability through this course
+Confirm your ability through this course.
+this course is really simple thing so that the begineer could understand the whole part.
 
 ## What you'll learn
 
