@@ -1,10 +1,14 @@
-# Answers
+# Solana Transfer Answers
 
-## How much SOL did the transfer take? What is this in USD?
-- 0.000005 SOL, 0.0000013 USD
-## Can you find your transaction on https://explorer.solana.com?
-- Yes
-## How long does the transfer take?
-- 2 seconds
-## What do you think "confirmed" means?
-- confirmed means the transaction has been included in a block but have not yet been confirmed by the network.
+## 1. Transfer Amount
+- **SOL:** 0.000005 SOL  
+- **USD:** $0.0000013
+
+## 2. Transaction Explorer
+- Found on [Solana Explorer](https://explorer.solana.com)
+
+## 3. Transfer Duration
+- Approximately 2 seconds
+
+## 4. Meaning of "Confirmed"
+- A transaction is **confirmed** when it has been included in a block but has not yet been fully finalized by the network.
