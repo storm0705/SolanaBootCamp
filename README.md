@@ -1,7 +1,6 @@
 # Welcome to the 30-Day Solana Developer Bootcamp. Everybody can improve their coding ability here. Try a best. Passion is the creation
 
-This bootcamp will equip you with the skills to build decentralized applications (dApps) on the Solana blockchain. Over the next 30 days, you'll gain a strong foundation in Solana's core concepts and client-side development.
-This will be helpful for a dev who are really gonna improve their ability now.
+This bootcamp will equip you with the skills to build d
 you can also impreve your maintain ability to study this project.
 Confirm your ability through this course.
 this course is really simple thing so that the begineer could understand the whole part.
@@ -41,5 +40,3 @@ this course is really simple thing so that the begineer could understand the who
 | May 31, 2024 | [Intro to client-side Anchor development](https://docs.google.com/presentation/d/1qvDmgf7pgBKKY7son4RvGOCeiSsWfVw8_KPBiDIXOdc/edit?usp=sharing) | [Intro to client-side Anchor development](https://tldv.io/app/meetings/665a2193e947790014d8fa4b/) | Google Meet |
 | June 2, 2024 | [Anchor PDAs and Accounts](https://docs.google.com/presentation/d/1i0iX1gBc2Vj2Gbu0dgOR81ZQ_P4ZPE1Lfglci1yxBi8/edit?usp=sharing) | [Anchor PDAs and Accounts](https://tldv.io/app/meetings/665cca94a911d00012449f42/) | Google Meet |
 | June 6, 2024 | [Anchor CPIs and Errors](https://docs.google.com/presentation/d/1xI6V0XqCnpC_DIlThQ7VVLwnBTeVsF7A5exni5iIpkQ/edit?usp=sharing) | [Anchor CPIs and Errors](https://tldv.io/app/meetings/66620c6131d66e0013ad95a3/) | Google Meet |
-| June 9, 2024 | [Serialization](https://docs.google.com/presentation/d/1UwfjpunMWpudagN02JtAsn_8Sbp_MMLeu5yxtXrLins/edit?usp=sharing) | [Serialization](https://tldv.io/app/meetings/6665fe2b777b030013dd468e/) | Google Meet |
-| June 11, 2024 | [Deserialization](https://docs.google.com/presentation/d/1iSP_KlC2WWshL_XrKkCC9QQ08kXT8N9ENiyDtyipJYI/edit?usp=sharing) | [Deserialization](https://tldv.io/) | Google Meet |
