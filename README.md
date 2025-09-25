@@ -22,7 +22,7 @@ this course is really simple thing so that the begineer could understand the who
 
 - Join the Bootcamp by reaching out to me on [Twitter/X](https://twitter.com/Olumide______).
 - Star this GitHub repository to track assignments and access resources.
-
+- Attend the Welcome Session (details will be shared in the group chat).
 
 ## Materials
 
