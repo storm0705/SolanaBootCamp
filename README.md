@@ -3,7 +3,7 @@
 This bootcamp will equip you with the skills to build d
 you can also impreve your maintain ability to study this project.
 Confirm your ability through this course.
-this course is really simple thing so that the begineer could understand the whole part.
+
 
 ## What you'll learn
 
