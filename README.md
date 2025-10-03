@@ -1,8 +1,5 @@
 # Welcome to the 30-Day Solana Developer Bootcamp. Everybody can improve their coding ability here. Try a best. Passion is the creation
 
-This bootcamp will equip you with the skills to build d
-you can also impreve your maintain ability to study this project.
-Confirm your ability through this course.
 
 
 ## What you'll learn
