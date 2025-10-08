@@ -41,3 +41,4 @@ Confirm your ability through this course.
 | June 6, 2024 | [Anchor CPIs and Errors](https://docs.google.com/presentation/d/1xI6V0XqCnpC_DIlThQ7VVLwnBTeVsF7A5exni5iIpkQ/edit?usp=sharing) | [Anchor CPIs and Errors](https://tldv.io/app/meetings/66620c6131d66e0013ad95a3/) | Google Meet |
 | June 9, 2024 | [Serialization](https://docs.google.com/presentation/d/1UwfjpunMWpudagN02JtAsn_8Sbp_MMLeu5yxtXrLins/edit?usp=sharing) | [Serialization](https://tldv.io/app/meetings/6665fe2b777b030013dd468e/) | Google Meet |
 | June 11, 2024 | [Deserialization](https://docs.google.com/presentation/d/1iSP_KlC2WWshL_XrKkCC9QQ08kXT8N9ENiyDtyipJYI/edit?usp=sharing) | [Deserialization](https://tldv.io/) | Google Meet |
+#readme file is really easy to understand about the project
