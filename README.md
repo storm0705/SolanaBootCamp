@@ -39,4 +39,3 @@ Confirm your ability through this course.
 | May 31, 2024 | [Intro to client-side Anchor development](https://docs.google.com/presentation/d/1qvDmgf7pgBKKY7son4RvGOCeiSsWfVw8_KPBiDIXOdc/edit?usp=sharing) | [Intro to client-side Anchor development](https://tldv.io/app/meetings/665a2193e947790014d8fa4b/) | Google Meet |
 | June 2, 2024 | [Anchor PDAs and Accounts](https://docs.google.
 
-
