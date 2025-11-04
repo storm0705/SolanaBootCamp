@@ -34,6 +34,6 @@ Confirm your ability through this course.
 | May 21, 2024 | [Create Solana NFTs With Metaplex](https://docs.google.com/presentation/d/160IwWL9zwwmskOynnL-T19F1W587b4x1sts_9LFJ_20/edit?usp=sharing) | [Create Solana NFTs With Metaplex Part 1](https://tldv.io/app/meetings/664e458ad09efb0013529de7/),  [Create Solana NFTs With Metaplex Part 2](https://tldv.io/app/meetings/664e4f7183e7b80013d5fbc0/) | Google Meet |
 | May 23, 2024 | [Using custom onchain programs](https://docs.google.com/presentation/d/1KnOlG2uDKnygfpfljf4mP11NBJzFUmIzPJB7DKPm78M/edit?usp=sharing) | [Recording of using custom onchain programs](https://tldv.io/app/meetings/664f9521c3ef770013142588/) | Google Meet |
 | May 25, 2024 | [Interact With Wallets](https://tldv.io/app/meetings/665235be90bc7500135c56bd/) | [Interact With Wallets](https://docs.google.com/presentation/d/1l0Y3Yz2mNz7UARmcBGa-d0LN1N6KINYHCyfpzAfctd0/edit?usp=sharing) | Google Meet |
-| May 27, 2024 | No Slides | [Introduction to Onchain Program Development](https://tldv.io/app/meetings/6654d8e591762500131960b0/) | Google Meet |
+
 
 | 
