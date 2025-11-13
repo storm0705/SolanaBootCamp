@@ -23,7 +23,7 @@ Confirm your ability through this course.
 - Star this GitHub repository to track assignments and access resources.
 - Attend the Welcome Session (details will be shared in the group chat).
 
-## Materials
+
 
 | Date | Presentation Slides | Recordings | Location |
 | ------ | ------ | ------ | ------ |
