@@ -28,6 +28,6 @@ Confirm your ability through this course.
 | Date | Presentation Slides | Recordings | Location |
 | ------ | ------ | ------ | ------ |
 | May 13, 2024 | [Introduction to Web3 and Solana](https://docs.google.com/presentation/d/1B5xz0xqe-oT_iLC-JQPc3Qh__QzK8mtvEoNc8YMwarE/edit?usp=sharing) | [Introduction](https://tldv.io/app/meetings/66426333fdcd6e0012bba71d) | Google Meet |
-| May 15, 2024 | [Cryptography in Solana](https://docs.google.com/[Cryptography]
+| May 15, 2024 | [Cryptography in Solana](https://docs.google.com/presentation/d/14viYzsXcM7DqrDLXBz1nQ0Bery8kN36zgWB0jp_eix0/edit?usp=sharing) | [Cryptography]
 | 
 | 
