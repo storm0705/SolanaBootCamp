@@ -25,8 +25,6 @@ Confirm your ability through this course.
 
 
 
-| Date | Presentation Slides | Recordings | Location |
-| ------ | ------ | ------ | ------ |
 | 
 
 | 
