@@ -20,5 +20,5 @@ Confirm your ability through this course.
 ## Getting Started
 
 - Join the Bootcamp by reaching out to me on [Twitter/X](https://twitter.com/Olumide______).
-- Star this GitHub repository to track assignments and access resources.
+
 
